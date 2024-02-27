@@ -1,2 +1,2 @@
 # Desafio-Target
-Sejam bem vindo equipe Target
+Sejam bem vindos(as) equipe Target
